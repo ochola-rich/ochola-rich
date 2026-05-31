@@ -1,0 +1,22 @@
+# Profile README Setup
+
+This repository is ready to use as a GitHub profile README repository.
+
+## Next steps
+
+1. Create a public GitHub repository named `ochola-rich`.
+2. Push this local repository to GitHub.
+3. Open the `Actions` tab and enable workflows if GitHub prompts you.
+4. Open the `Actions` tab and run each workflow once from `workflow_dispatch`.
+
+The generated SVG files are published to the `snake-output`, `pacman-output`, `stats-output`, and `languages-output` branches, which are already referenced from `README.md`.
+
+## Optional personal links
+
+Update these URLs in `README.md` if your handles are different:
+
+- LinkedIn: `https://www.linkedin.com/in/ochola-rich`
+- YouTube: `https://www.youtube.com/@ochola-rich`
+- Twitter / X: `https://twitter.com/ochola_rich`
+- Dev.to: `https://dev.to/ochola-rich`
+- Spotify: `https://open.spotify.com/user/jerom`

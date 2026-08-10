@@ -50,14 +50,14 @@ I am a **Full-Stack AI Engineer** specializing at the intersection of robust bac
 
 #### Languages & Core Infrastructure
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,go,rust,cpp,c,java,ts,js&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,go,rust,ruby,cpp,c,java,ts,js&theme=dark" alt="Languages" />
 </div>
 
 <br>
 
 #### Frameworks, Web & AI Ecosystem
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,rubyonrails,flutter,tensorflow,threejs&theme=dark" alt="Frameworks & AI" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,rails,flutter,tensorflow,threejs&theme=dark" alt="Frameworks & AI" />
 </div>
 
 <br>

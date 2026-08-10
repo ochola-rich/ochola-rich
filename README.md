@@ -41,7 +41,7 @@ I am a **Full-Stack AI Engineer** specializing at the intersection of robust bac
 #### Core Focus & Engineering Pillars
 
 - **Agentic Web & Autonomous Systems**: Designing schemas, sandboxes, and protocols for autonomous AI agents to interact seamlessly with APIs and environments.
-- ⚡ **High-Throughput RAG & Microservices**: Optimizing document processing and vector retrieval pipelines combining Go's concurrency with Python's ML ecosystem.
+- **High-Throughput RAG & Microservices**: Optimizing document processing and vector retrieval pipelines combining Go's concurrency with Python's ML ecosystem.
 - **Local-First & Resilient Systems**: Architecting offline-resilient applications with intelligent client-side caching and state sync.
 
 ---

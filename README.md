@@ -34,19 +34,19 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 I am a **Full-Stack AI Engineer** specializing at the intersection of robust backend engineering, distributed microservices, and autonomous agentic AI systems. I build end-to-end intelligent applications from high-performance data pipelines to intuitive interfaces.
 
-#### 🔭 Core Focus & Engineering Pillars
+#### Core Focus & Engineering Pillars
 
-- 🧠 **Agentic Web & Autonomous Systems**: Designing schemas, sandboxes, and protocols for autonomous AI agents to interact seamlessly with APIs and environments.
+- **Agentic Web & Autonomous Systems**: Designing schemas, sandboxes, and protocols for autonomous AI agents to interact seamlessly with APIs and environments.
 - ⚡ **High-Throughput RAG & Microservices**: Optimizing document processing and vector retrieval pipelines combining Go's concurrency with Python's ML ecosystem.
-- 💾 **Local-First & Resilient Systems**: Architecting offline-resilient applications with intelligent client-side caching and state sync.
+- **Local-First & Resilient Systems**: Architecting offline-resilient applications with intelligent client-side caching and state sync.
 
 ---
 
-### 🛠️ Tech Stack & Capabilities
+### Tech Stack & Capabilities
 
 #### Languages & Core Infrastructure
 <div align="left">
@@ -69,16 +69,16 @@ I am a **Full-Stack AI Engineer** specializing at the intersection of robust bac
 
 ---
 
-### 📊 Engineering Activity & Analytics
+### Engineering Activity & Analytics
 
-#### 📈 Contribution Matrix
+#### Contribution Matrix
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ochola-rich&theme=dracula" alt="GitHub activity graph" width="100%" />
 </div>
 
 <br>
 
-#### ⚡ GitHub Overview & Stats
+#### GitHub Overview & Stats
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ochola-rich&show_icons=true&theme=dracula" height="195" alt="GitHub stats" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ochola-rich&layout=compact&langs_count=5&theme=dracula" height="165" alt="Top languages" />

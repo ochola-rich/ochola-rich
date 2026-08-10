@@ -6,10 +6,8 @@ This repository is ready to use as a GitHub profile README repository.
 
 1. Create a public GitHub repository named `ochola-rich`.
 2. Push this local repository to GitHub.
-3. Open the `Actions` tab and enable workflows if GitHub prompts you.
-4. Open the `Actions` tab and run each workflow once from `workflow_dispatch`.
 
-The generated SVG files are published to the `snake-output`, `pacman-output`, `stats-output`, and `languages-output` branches, which are already referenced from `README.md`.
+No GitHub Actions or workflow setup is needed! All stats, activity graphs, and badges update dynamically in real time.
 
 ## Optional personal links
 

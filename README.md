@@ -57,7 +57,7 @@ I am a **Full-Stack AI Engineer** specializing at the intersection of robust bac
 
 #### Frameworks, Web & AI Ecosystem
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,flutter,tensorflow,threejs&theme=dark" alt="Frameworks & AI" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,rubyonrails,flutter,tensorflow,threejs&theme=dark" alt="Frameworks & AI" />
 </div>
 
 <br>

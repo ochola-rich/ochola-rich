@@ -24,9 +24,9 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ochola-rich.ochola-rich" alt="Profile visitor badge" />
 </div>
 
-<h1 align="center">Hey there.</h1>
-
-<img src="https://raw.githubusercontent.com/ochola-rich/ochola-rich/snake-output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8be9fd,100:bd93f9&height=120&section=header&text=Hey%20there,%20I'm%20Richard%20Ochola!&fontSize=30" alt="Header banner" />
+</div>
 
 <br clear="both">
 
@@ -98,20 +98,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="Three.js" />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ochola-rich/ochola-rich/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ochola-rich/ochola-rich/pacman-output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/ochola-rich/ochola-rich/pacman-output/pacman-contribution-graph.svg">
-</picture>
+<h3 align="left">Contribution Activity</h3>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ochola-rich&theme=dracula" alt="GitHub activity graph" width="100%" />
+</div>
+
+<br clear="both">
 
 <h3 align="left">My Stats</h3>
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ochola-rich/ochola-rich/stats-output/stats.svg" height="250" alt="GitHub stats" />
-  <img src="https://raw.githubusercontent.com/ochola-rich/ochola-rich/languages-output/languages.svg" height="150" alt="Top languages" />
-  <img src="https://streak-stats.demolab.com?user=ochola-rich&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub streak" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ochola-rich&show_icons=true&theme=dracula" height="195" alt="GitHub stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ochola-rich&layout=compact&langs_count=5&theme=dracula" height="165" alt="Top languages" />
+  <img src="https://streak-stats.demolab.com?user=ochola-rich&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="195" alt="GitHub streak" />
 </div>
 
 <br clear="both">
